@@ -16279,6 +16279,15 @@ span.sicon {
   text-align: center;
 }
 
+.head-title {
+  color: #232527;
+  font-size: 40px;
+  line-height: 45px;
+  font-weight: 600;
+  margin-bottom: 55px;
+  text-align: center;
+}
+
 .w3l-open-block-services .open-description a {
   font-size: 17px;
   line-height: 26px;
