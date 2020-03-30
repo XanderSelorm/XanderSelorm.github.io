@@ -1,0 +1,86 @@
+.navLogo {
+    width: 200px;
+}
+
+.myPic {
+    width: 500px;
+}
+
+.main-header {
+    background-color: gray;
+}
+
+.hero {
+    align-items: center;
+    align-content: center;
+    display: flex;
+}
+.headline {
+    font-family: Poppins;
+    font-weight: 900;
+    font-size: 67px;
+    line-height: 68px; 
+
+    text-align: center;
+    letter-spacing: 0.2px;
+
+    /* Light / Black */
+
+    color: #373F41;
+}
+
+.subtitle {
+    font-size: 16px;
+    line-height: 22px;
+    /* or 137% */
+    letter-spacing: 0.3px;
+
+    /* Light / Gray dark */
+
+    color: #737B7D;
+}
+
+.mini-heading {
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 40px;
+    /* or 125% */
+
+    letter-spacing: 0.1px;
+
+    /* Light / Black */
+
+    color: #373F41;
+}
+
+.icon-size {
+    font-size: 30px;
+    color: rgba(30, 155, 34, 0.8);
+}
+
+.link-decor{
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: #F7DF18;
+}
+
+.link-decor:hover {
+    color: #737B7D;
+    text-decoration-color: rgb(175, 159, 17);
+}
+
+.link-decor-dark{
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+
+.link-decor-dark:hover {
+    color: rgb(29, 29, 29);
+    text-decoration-color: rgb(29, 29, 29);
+}
+
+.myAbout {
+    padding-top: 80px;
+}
